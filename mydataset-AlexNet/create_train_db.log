@@ -1,0 +1,12 @@
+Tensorflow support disabled.
+2019-02-20 19:58:22 [DEBUG] 1161 total lines in file
+2019-02-20 19:58:22 [INFO ] 1161 valid lines in file
+2019-02-20 19:58:22 [DEBUG] Category 0 has 425 images.
+2019-02-20 19:58:22 [DEBUG] Category 1 has 405 images.
+2019-02-20 19:58:22 [DEBUG] Category 2 has 331 images.
+2019-02-20 19:58:24 [DEBUG] Processed 200/1161
+2019-02-20 19:58:27 [DEBUG] Processed 600/1161
+2019-02-20 19:58:28 [DEBUG] 1161 images loaded
+2019-02-20 19:58:28 [INFO ] 1161 images written to database
+2019-02-20 19:58:28 [INFO ] Mean saved at "/opt/DIGITS/digits/jobs/20190220-195817-1486/mean.binaryproto"
+2019-02-20 19:58:28 [INFO ] Mean saved at "/opt/DIGITS/digits/jobs/20190220-195817-1486/mean.jpg"
